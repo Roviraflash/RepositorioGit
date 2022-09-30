@@ -21,3 +21,4 @@ class Potato{
         this.brazos--; //El this hace que entremos en Potato y despues pasamos a brazos.
     }
 }
+//Añadimos unos comentarios para testear git.
